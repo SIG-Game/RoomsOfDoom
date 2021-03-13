@@ -1333,7 +1333,6 @@ Mesh:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1001 &427380704
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1483,10 +1482,13 @@ SpriteRenderer:
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of c4cb132 (Scene 3 -Vishal)
+=======
+>>>>>>> parent of a245c3f (Update Scene3.unity)
 --- !u!1 &457911188
 GameObject:
   m_ObjectHideFlags: 0
@@ -3748,7 +3750,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -3924,8 +3925,6 @@ GameObject:
   m_IsActive: 1
 --- !u!4 &1456740997
 Transform:
-=======
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
@@ -4135,10 +4134,7 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
@@ -4991,7 +4987,6 @@ Tilemap:
   m_Tiles:
 <<<<<<< HEAD
   - first: {x: -43, y: -5, z: 0}
-<<<<<<< HEAD
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -5340,17 +5335,10 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 1
-=======
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 33
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5371,54 +5359,24 @@ Tilemap:
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
   - first: {x: -32, y: -5, z: 0}
-=======
-  - first: {x: -42, y: -5, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 43
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-  - first: {x: -41, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 40
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-  - first: {x: -40, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 42
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -31, y: -5, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 44
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: -39, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 42
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5441,38 +5399,15 @@ Tilemap:
       m_TileSpriteIndex: 36
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
-=======
-  - first: {x: -38, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 46
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-  - first: {x: -37, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 46
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -29, y: -5, z: 0}
-=======
-  - first: {x: -36, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
-<<<<<<< HEAD
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -5480,16 +5415,11 @@ Tilemap:
       m_AllTileFlags: 1073741826
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -29, y: -5, z: 0}
-=======
-  - first: {x: -35, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
-<<<<<<< HEAD
 =======
   - first: {x: -25, y: -4, z: 0}
     second:
@@ -5499,60 +5429,31 @@ Tilemap:
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
   - first: {x: -28, y: -5, z: 0}
-=======
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-  - first: {x: -34, y: -5, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 43
+      m_TileSpriteIndex: 44
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-  - first: {x: -33, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 1
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -27, y: -5, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: -32, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 1
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -28, y: -5, z: 0}
-=======
-  - first: {x: -31, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 44
-<<<<<<< HEAD
 =======
   - first: {x: -43, y: -3, z: 0}
     second:
@@ -5562,13 +5463,6 @@ Tilemap:
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
   - first: {x: -26, y: -5, z: 0}
-=======
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-  - first: {x: -30, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -5580,16 +5474,11 @@ Tilemap:
       m_AllTileFlags: 1073741826
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -27, y: -5, z: 0}
-=======
-  - first: {x: -29, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
-<<<<<<< HEAD
 =======
   - first: {x: -25, y: -3, z: 0}
 =======
@@ -5598,13 +5487,10 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 41
-=======
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -43, y: -4, z: 0}
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
@@ -5615,18 +5501,10 @@ Tilemap:
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: -28, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 44
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -26, y: -5, z: 0}
@@ -5639,18 +5517,6 @@ Tilemap:
       m_TileSpriteIndex: 34
 =======
   - first: {x: -25, y: -4, z: 0}
-=======
-  - first: {x: -27, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 43
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-  - first: {x: -26, y: -5, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -5660,7 +5526,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -25, y: -5, z: 0}
@@ -5676,31 +5541,17 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 36
-=======
-  - first: {x: -25, y: -5, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 41
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -25, y: -3, z: 0}
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: -43, y: -4, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 36
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
@@ -5710,16 +5561,11 @@ Tilemap:
       m_AllTileFlags: 1073741826
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -43, y: -4, z: 0}
-=======
-  - first: {x: -25, y: -4, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 36
-<<<<<<< HEAD
 =======
   - first: {x: 32, y: -2, z: 0}
     second:
@@ -5733,60 +5579,27 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 34
-=======
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-  - first: {x: -43, y: -3, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 36
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-  - first: {x: -25, y: -3, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 36
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -25, y: -2, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 36
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: -43, y: -2, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 34
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -25, y: -4, z: 0}
-=======
-  - first: {x: -25, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 36
-<<<<<<< HEAD
 =======
   - first: {x: 33, y: -2, z: 0}
     second:
@@ -5801,13 +5614,10 @@ Tilemap:
       m_TileIndex: 0
       m_TileSpriteIndex: 33
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -43, y: -3, z: 0}
@@ -5825,18 +5635,10 @@ Tilemap:
       m_TileIndex: 0
       m_TileSpriteIndex: 43
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: 32, y: -2, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 33
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -25, y: -3, z: 0}
@@ -5854,18 +5656,10 @@ Tilemap:
       m_TileIndex: 0
       m_TileSpriteIndex: 43
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: 33, y: -2, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 43
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -43, y: -2, z: 0}
@@ -5876,9 +5670,6 @@ Tilemap:
 =======
 =======
   - first: {x: 35, y: -2, z: 0}
-=======
-  - first: {x: 34, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -5887,20 +5678,13 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
   - first: {x: 36, y: -2, z: 0}
-=======
-  - first: {x: 35, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
@@ -5908,7 +5692,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -25, y: -2, z: 0}
@@ -5922,24 +5705,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 36
-=======
-  - first: {x: 36, y: -2, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 43
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: 32, y: -2, z: 0}
-=======
-  - first: {x: 37, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -5948,7 +5720,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: 33, y: -2, z: 0}
     second:
       serializedVersion: 2
@@ -5976,9 +5747,6 @@ Tilemap:
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 35, y: -2, z: 0}
-=======
-  - first: {x: 38, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -5987,7 +5755,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: 36, y: -2, z: 0}
     second:
       serializedVersion: 2
@@ -6024,24 +5791,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 1
-=======
-  - first: {x: 39, y: -2, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 46
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 38, y: -2, z: 0}
-=======
-  - first: {x: 40, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6050,7 +5806,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: 39, y: -2, z: 0}
 =======
   - first: {x: 41, y: -2, z: 0}
@@ -6075,9 +5830,6 @@ Tilemap:
 =======
   - first: {x: 42, y: -2, z: 0}
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
-  - first: {x: 41, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6088,11 +5840,7 @@ Tilemap:
       m_AllTileFlags: 1073741826
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: 41, y: -2, z: 0}
-=======
-  - first: {x: 42, y: -2, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6101,7 +5849,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: 42, y: -2, z: 0}
     second:
       serializedVersion: 2
@@ -6129,39 +5876,20 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 39
-=======
-  - first: {x: 43, y: -2, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 41
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -57, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 46
-=======
-  - first: {x: -58, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 39
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -56, y: -1, z: 0}
-=======
-  - first: {x: -57, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6170,11 +5898,7 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -55, y: -1, z: 0}
-=======
-  - first: {x: -56, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6183,130 +5907,70 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -54, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
-=======
-  - first: {x: -55, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 40
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -53, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 44
-=======
-  - first: {x: -54, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 43
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -52, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 42
-=======
-  - first: {x: -53, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 44
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -51, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 40
-=======
-  - first: {x: -52, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 42
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -50, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 46
-=======
-  - first: {x: -51, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 40
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -49, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 42
-=======
-  - first: {x: -50, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 46
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -48, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
-=======
-  - first: {x: -49, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 42
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -47, y: -1, z: 0}
-=======
-  - first: {x: -48, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6315,92 +5979,52 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -46, y: -1, z: 0}
-=======
-  - first: {x: -47, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 43
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -45, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
-=======
-  - first: {x: -46, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 1
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -44, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 46
-=======
-  - first: {x: -45, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 43
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -43, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 37
-=======
-  - first: {x: -44, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 46
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -25, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 38
-=======
-  - first: {x: -43, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 37
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
   - first: {x: -24, y: -1, z: 0}
-=======
-  - first: {x: -25, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6409,41 +6033,16 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -23, y: -1, z: 0}
-=======
-  - first: {x: -24, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 43
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -22, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 44
-=======
   - first: {x: -23, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -21, y: -1, z: 0}
-=======
   - first: {x: -22, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6452,28 +6051,16 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -20, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 42
-=======
   - first: {x: -21, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 44
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -19, y: -1, z: 0}
-=======
   - first: {x: -20, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6482,11 +6069,7 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -18, y: -1, z: 0}
-=======
   - first: {x: -19, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6495,45 +6078,25 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -17, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 40
-=======
   - first: {x: -18, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 43
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -16, y: -1, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 46
-=======
   - first: {x: -17, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
       m_TileSpriteIndex: 40
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-  - first: {x: -15, y: -1, z: 0}
-=======
   - first: {x: -16, y: -1, z: 0}
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -6542,8 +6105,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
-<<<<<<< HEAD
-=======
   - first: {x: -15, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -6553,7 +6114,6 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
   - first: {x: -14, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -10581,15 +10141,11 @@ TilemapCollider2D:
   m_SpriteSortPoint: 0
 --- !u!4 &1666341568
 Transform:
-<<<<<<< HEAD
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1645988788}
   m_Enabled: 1
@@ -10609,8 +10165,6 @@ Transform:
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
   m_GameObject: {fileID: 1666341566}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 10.37, y: -8.92, z: -1.4700003}
@@ -10622,9 +10176,6 @@ Transform:
 --- !u!1001 &1675587910
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
@@ -10652,9 +10203,6 @@ PrefabInstance:
       value: -2.8295863
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
-=======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
@@ -10666,11 +10214,8 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -1
 =======
-=======
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
@@ -10776,7 +10321,6 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_SourcePrefab: {fileID: 100100000, guid: 3aa03ae1689a947448e3ea2b622614f1, type: 3}
 =======
 >>>>>>> parent of c4cb132 (Scene 3 -Vishal)
@@ -10865,10 +10409,6 @@ Transform:
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1675587910
-=======
-  m_SourcePrefab: {fileID: 100100000, guid: 4ff9f7a332b4ae44bb62aaee6eacc033, type: 3}
---- !u!1001 &1708153322
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======
   m_SourcePrefab: {fileID: 100100000, guid: 4ff9f7a332b4ae44bb62aaee6eacc033, type: 3}
 --- !u!1001 &1708153322
@@ -11864,9 +11404,11 @@ SpriteRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
->>>>>>> parent of 5c8d663 (Update Scene3.unity)
+>>>>>>> parent of a245c3f (Update Scene3.unity)
+=======
 =======
 >>>>>>> parent of 5c8d663 (Update Scene3.unity)
 =======

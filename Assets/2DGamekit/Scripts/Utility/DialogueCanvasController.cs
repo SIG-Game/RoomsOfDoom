@@ -20,6 +20,32 @@ namespace Gamekit2D
             animator.SetBool(m_HashActivePara, false);
         }
 
+        IEnumerator DisplayDialogueCoroutine (Dialogue dialogue)
+        {
+            Line[] lines = dialogue.lines;
+
+            foreach (Line line in lines)
+            {
+                textMeshProUGUI.text = line.text;
+                yield return new WaitForSeconds (line.displayTime);
+            }
+            
+            animator.SetBool (m_HashActivePara, false);
+        }
+
+        public void DisplayDialogue (Dialogue dialogue)
+        {
+            if (m_DeactivationCoroutine != null)
+            {
+                StopCoroutine (m_DeactivationCoroutine);
+                m_DeactivationCoroutine = null;
+            }
+
+            gameObject.SetActive (true);
+            animator.SetBool (m_HashActivePara, true);
+            m_DeactivationCoroutine = StartCoroutine (DisplayDialogueCoroutine (dialogue));
+        }
+
         public void ActivateCanvasWithText (string text)
         {
             if (m_DeactivationCoroutine != null)

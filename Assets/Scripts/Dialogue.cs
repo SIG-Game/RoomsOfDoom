@@ -5,7 +5,9 @@ using UnityEngine;
 [System.Serializable]
 public class Line
 {
+    [TextArea]
     public string text;
+
     public float displayTime;
 }
 

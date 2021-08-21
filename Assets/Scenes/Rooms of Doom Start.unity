@@ -2200,7 +2200,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\n<b>CREDITS\nUIC ACM SIG Game\r</b>\n\nLevel Designers\nLevel 1: Aden
+  m_text: "\n<b>CREDITS\nACM SIG Game@UIC\r</b>\n\nLevel Designers\nLevel 1: Aden
     Prince\r\nLevel 2: Vishal Patel\r\nLevel 3: Haris Vujic\r\nLevel 4 - The Trail
     of Trickery: Izaan Mahmood\r\nLevel 5: Thomas Alakkatt\r\nLevel 6: Zachary Robbins\r\nLevel
     7: Bilal Hashim\r\nLevel 8: Emily Carroso\r\nLevel 9: Waleed Khan\r\n\r\nLeaders:

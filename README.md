@@ -1,6 +1,6 @@
 # Welcome to Rooms of Doom!
 
-This was a collaborative project between the members of UIC-ACM SIG game during the Spring 2021 semester. 
+This was a collaborative project between the members of ACM SIG Game@UIC during the Spring 2021 semester. 
 
 <b>Link to all game builds:</b>
 https://drive.google.com/drive/folders/1m6nikveKq6c0X7IKO22rOtkzvQc4rhzd?usp=sharing

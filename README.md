@@ -27,7 +27,7 @@ Leaders: Aden Prince and Zachary Robbins
 ### Level Designers 
 * Will be updated upon completion of the project
 
-### Creators 
+## Creators 
 <b>Unity Content Team </b> 
 * Producer: Aurore Dimopoulos 
 * Associate Producer: Kat Woolley 

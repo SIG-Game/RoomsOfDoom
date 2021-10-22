@@ -1,6 +1,6 @@
 # Welcome to Rooms of Doom!
 
-This was a collaborative project between the members of ACM SIG Game@UIC during the Spring 2021 semester. 
+This was a collaborative project between the members of ACM SIG Game@UIC. This is an onging project that will be updated every semester with a new pack of levels. Credits will be added below as the level pack of the semester wraps up. 
 
 <b>Link to all game builds:</b>
 https://drive.google.com/drive/folders/1m6nikveKq6c0X7IKO22rOtkzvQc4rhzd?usp=sharing
@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1m6nikveKq6c0X7IKO22rOtkzvQc4rhzd?usp=sha
 
 This Project was done using the 2D game kit provided by unity to help the members in learning the ins and outs of Unity.
 
-## Credits
+## Credits (Generation 1, Spring 2021)
 Leaders: Aden Prince and Zachary Robbins
 ### Level Designers 
 * Level 1: Aden Prince 
@@ -21,6 +21,11 @@ Leaders: Aden Prince and Zachary Robbins
 * Level 7: Bilal Hashim 
 * Level 8: Emily Carroso 
 * Level 9: Waleed Khan 
+
+## Credits (Generation 2, Fall 2021)
+Leaders: Aden Prince and Zachary Robbins
+### Level Designers 
+* Will be updated upon completion of the project
 
 ### Creators 
 <b>Unity Content Team </b> 

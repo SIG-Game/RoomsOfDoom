@@ -449,7 +449,7 @@ MonoBehaviour:
   lines:
   - text: Welcome to the Rooms of Doom!
     displayTime: 3.5
-  - text: This level pack was created by UIC ACM SIG Game using the Unity 2D Game
+  - text: This level pack was created by ACM SIG Game@UIC using the Unity 2D Game
       Kit during the Spring 2021 semester. Enjoy!
     displayTime: 6.5
 --- !u!1 &126852619

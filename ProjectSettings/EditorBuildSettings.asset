@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/2DGamekit/Scenes/Zone5.unity
     guid: 960b12f881940d84983273421bebc695
   - enabled: 1
-    path: Assets/Scenes/Rooms of Doom Start.unity
+    path: Assets/RoomsOfDoomLevels/Rooms of Doom Start.unity
     guid: bc78a1c16b791cc49b01d6aac8179681
   - enabled: 0
     path: 
@@ -33,13 +33,13 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Scene1.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.1.unity
     guid: c6f9f279d72f8724c8c2ce08ac89f8ee
   - enabled: 0
-    path: Assets/Scenes/Scene2.unity
+    path: 
     guid: f4499ff30d1936143baaa59d7448f307
   - enabled: 1
-    path: Assets/Scenes/Scene3.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.2.unity
     guid: c7a934e164aadf643b8bb2e18447469f
   - enabled: 0
     path: 
@@ -48,40 +48,40 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Scene4.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.3.unity
     guid: 39da68b812316af42ab13cdbeeaa7598
   - enabled: 0
-    path: Assets/Scenes/Scene5.unity
+    path: 
     guid: ec37af8e156a3c843b6302a6c955141c
   - enabled: 1
-    path: Assets/Scenes/Scene6.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.4.unity
     guid: 08fb4c36f2ba17c47bb5610acfeb72f1
   - enabled: 1
-    path: Assets/Scenes/Scene7.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.5.unity
     guid: c8cb8970e7b91c84b8639a765b3c2215
   - enabled: 1
-    path: Assets/Scenes/Scene8.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.6.unity
     guid: b103ea13ef17f694392f88c5a9c3da00
   - enabled: 1
-    path: Assets/Scenes/Scene9.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.7.unity
     guid: fc99f1f2a2f7bb5488d6eafa9aa5de96
   - enabled: 1
-    path: Assets/Scenes/Scene10.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.8.unity
     guid: ec97ff2188200fb448185dc4b265ac4b
   - enabled: 0
-    path: Assets/Scenes/Scene11.unity
+    path: 
     guid: a4fb8db2ceedbb54da98df2ffae6618c
   - enabled: 0
-    path: Assets/Scenes/Scene12.unity
+    path: 
     guid: 0aec98048571b6841939882774c5724d
   - enabled: 0
-    path: Assets/Scenes/Scene13.unity
+    path: 
     guid: 5869e22623c0f2047b401037eef4cb6f
   - enabled: 1
-    path: Assets/Scenes/Scene14.unity
+    path: Assets/RoomsOfDoomLevels/Gen1/Lv1.9.unity
     guid: 43b08d0660c5dd5449f99f56db9bf5dd
   - enabled: 0
-    path: Assets/Scenes/Scene15.unity
+    path: 
     guid: 78491a4b667124547b6737908f73c22d
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
@@ -89,4 +89,49 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.1.unity
+    guid: 1d9cdb7342bcf3b4b9ed009909d4cc8f
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.2.unity
+    guid: b7e9da304137f074589e16f319fc9ccb
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.3.unity
+    guid: b8c6653ae1b77a0488b35130a6c781ed
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.4.unity
+    guid: 7dd27545c8c76574890fda10154578b0
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.5.unity
+    guid: d2473048f6e5fc740ab74d37769ed619
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.6.unity
+    guid: 14389b45686053b4fade4c3dae091cf9
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.7.unity
+    guid: 30f86c125c39bfc4b9734d4540eb235a
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.8.unity
+    guid: 21b7d67753d123e408fb89a37a108a27
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.9.unity
+    guid: 1f577f2b1f042a54481a217a134308d3
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.10.unity
+    guid: 6ede8a34466a7c64bbc2886e8191f436
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.11.unity
+    guid: 264baa42585b6eb4594c5857c315cc74
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.12.unity
+    guid: 8eaae2e44f24eb64a89432a92d0dec14
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.13.unity
+    guid: a65742130828de1458a9f9b7f64b8891
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.14.unity
+    guid: 6980affc78a6f5141bff335128b8a69b
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen2/Lv2.15.unity
+    guid: ce390973d13753445abe358bd712d49f
   m_configObjects: {}

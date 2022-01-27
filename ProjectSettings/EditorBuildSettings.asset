@@ -152,4 +152,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/Gen3/lv3.7.unity
     guid: 419f28132f735de418aa52df50b872bc
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/lv3.7a.unity
+    guid: 2410dca50b9b46c4d800e67217a0e6ef
   m_configObjects: {}

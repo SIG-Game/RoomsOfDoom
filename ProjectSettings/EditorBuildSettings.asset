@@ -101,55 +101,61 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Lv2.2.unity
     guid: b7e9da304137f074589e16f319fc9ccb
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.3.unity
-    guid: b8c6653ae1b77a0488b35130a6c781ed
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.4.unity
-    guid: 7dd27545c8c76574890fda10154578b0
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.5.unity
-    guid: d2473048f6e5fc740ab74d37769ed619
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.6.unity
-    guid: 14389b45686053b4fade4c3dae091cf9
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.7.unity
-    guid: 30f86c125c39bfc4b9734d4540eb235a
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.8.unity
-    guid: 21b7d67753d123e408fb89a37a108a27
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.9.unity
-    guid: 1f577f2b1f042a54481a217a134308d3
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.10.unity
-    guid: 6ede8a34466a7c64bbc2886e8191f436
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Lv2.11.unity
     guid: 264baa42585b6eb4594c5857c315cc74
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.12.unity
-    guid: 8eaae2e44f24eb64a89432a92d0dec14
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.13.unity
-    guid: a65742130828de1458a9f9b7f64b8891
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.14.unity
-    guid: 6980affc78a6f5141bff335128b8a69b
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Lv2.15.unity
-    guid: ce390973d13753445abe358bd712d49f
-  - enabled: 1
+  - enabled: 0
     path: 
-    guid: ad49803624d642446a8861c43f33837b
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
-    guid: d03b4b4ce7fe4d040b1a59175414444f
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/lv.0(lv1.0).unity
     guid: 869773c4f0667c74a83f51ebee4aa274
   - enabled: 1
     path: Assets/NewScene.unity
     guid: 8465e57ab1993644d9b04e2c1b577a42
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/lv.12(Lv3.2).unity
+    guid: c4d8b5ca600080a45b029a5be4755eb5
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/End Screen.unity
+    guid: 61c572cfbabaeca4781978bc50ebadbe
   m_configObjects: {}

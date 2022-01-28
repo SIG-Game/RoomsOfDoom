@@ -150,7 +150,7 @@ PrefabInstance:
     - target: {fileID: 224750044673408476, guid: 2d2745d2a8668e644a921a4848c9bc90,
         type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 224750044673408476, guid: 2d2745d2a8668e644a921a4848c9bc90,
         type: 3}
@@ -27476,6 +27476,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114617424864725342, guid: 40cc899f594768746b6d70b3f2530c2e,
         type: 3}
+      propertyPath: layers.m_Bits
+      value: 3222265655
+      objectReference: {fileID: 0}
+    - target: {fileID: 114617424864725342, guid: 40cc899f594768746b6d70b3f2530c2e,
+        type: 3}
       propertyPath: OnEnter.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
       objectReference: {fileID: 366477697}
@@ -27544,7 +27549,7 @@ PrefabInstance:
     - target: {fileID: 114102715391990394, guid: ea040a76895f65745899f41e3dff6aeb,
         type: 3}
       propertyPath: newSceneName
-      value: End Screen
+      value: lv.13(Lv2.3)
       objectReference: {fileID: 0}
     - target: {fileID: 114102715391990394, guid: ea040a76895f65745899f41e3dff6aeb,
         type: 3}

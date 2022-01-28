@@ -98,7 +98,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/lv.10(Lv2.1).unity
     guid: 1d9cdb7342bcf3b4b9ed009909d4cc8f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Lv2.2.unity
     guid: b7e9da304137f074589e16f319fc9ccb
   - enabled: 0
@@ -125,7 +125,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Lv2.11.unity
     guid: 264baa42585b6eb4594c5857c315cc74
   - enabled: 0
@@ -149,7 +149,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/lv.0(lv1.0).unity
     guid: 869773c4f0667c74a83f51ebee4aa274
-  - enabled: 1
+  - enabled: 0
     path: Assets/NewScene.unity
     guid: 8465e57ab1993644d9b04e2c1b577a42
   - enabled: 1
@@ -158,4 +158,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/End Screen.unity
     guid: 61c572cfbabaeca4781978bc50ebadbe
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/lv.2(Lvl.3).unity
+    guid: 78f7d09766f1ac14eb990b1619d485c8
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/lv.13(Lv2.3).unity
+    guid: c2876123758c4bf42a379e09f5d58d82
   m_configObjects: {}

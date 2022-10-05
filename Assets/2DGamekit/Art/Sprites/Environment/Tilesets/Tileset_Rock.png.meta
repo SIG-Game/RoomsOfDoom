@@ -372,7 +372,7 @@ TextureImporter:
       213: 21300244
     second: Tileset_Rock_CeilingCornerGrassSingleRight
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -392,6 +392,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -400,9 +402,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -423,9 +425,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -453,6 +460,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
@@ -5514,6 +5545,100 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Tileset_Rock_CeilingCornerGrassLeft: 21300238
+      Tileset_Rock_FloorSingleBlock2: 21300152
+      Tileset_Rock_WallLeftCornerGrass: 21300230
+      Tileset_Rock_FloorCornerInnerLeft3: 21300140
+      Tileset_Rock_WallLeft6: 21300162
+      Tileset_Rock_WallRight1: 21300052
+      Tileset_Rock_SingleBlock: 21300130
+      Tileset_Rock_FloorCornerInnerLeft2: 21300138
+      Tileset_Rock_Fill6: 21300098
+      Tileset_Rock_CeilingCornerGrassSingleRight: 21300244
+      Tileset_Rock_FloorCornerOuterRight: 21300174
+      Tileset_Rock_FloorSingleBlock3: 21300154
+      Tileset_Rock_SingleColumnCentreCeiling: 21300240
+      Tileset_Rock_CeilingCornerOuterLeft: 21300056
+      Tileset_Rock_Fill5: 21300096
+      Tileset_Rock_WallRightCeilingCorner5: 21300214
+      Tileset_Rock_SingleBlockCorner_Right: 21300228
+      Tileset_Rock_Fill8: 21300178
+      Tileset_Rock_Floor1: 21300074
+      Tileset_Rock_WallRight5: 21300160
+      Tileset_Rock_WallRightCeilingCorner6: 21300216
+      Tileset_Rock_WallLeftCeilingCorner5: 21300196
+      Tileset_Rock_WallLeft4: 21300128
+      Tileset_Rock_WallRightCeilingCorner2: 21300204
+      Tileset_Rock_FloorCornerSingleBlockLeft: 21300146
+      Tileset_Rock_WallRight0: 21300034
+      Tileset_Rock_WallRightCeilingCorner4: 21300208
+      Tileset_Rock_WallLeft5: 21300144
+      Tileset_Rock_Floor4: 21300080
+      Tileset_Rock_WallCornerRightGrass: 21300232
+      Tileset_Rock_Fill2: 21300090
+      Tileset_Rock_Fill10: 21300044
+      Tileset_Rock_Floor0: 21300170
+      Tileset_Rock_Ceiling2: 21300058
+      Tileset_Rock_FloorSingleBlock1: 21300150
+      Tileset_Rock_Fill4: 21300094
+      Tileset_Rock_Floor2: 21300076
+      Tileset_Rock_WallLeft2: 21300054
+      Tileset_Rock_Floor3: 21300172
+      Tileset_Rock_FloorCornerOuterLeft: 21300072
+      Tileset_Rock_FloorCornerInnerRight0: 21300118
+      Tileset_Rock_WallLeftCeilingCorner3: 21300192
+      Tileset_Rock_WallRight6: 21300184
+      Tileset_Rock_Ceiling6: 21300066
+      Tileset_Rock_WallLeft0: 21300176
+      Tileset_Rock_Floor6: 21300014
+      Tileset_Rock_Floor5: 21300082
+      Tileset_Rock_SingleColumn1: 21300220
+      Tileset_Rock_SingleBlockCorner_Left: 21300226
+      Tileset_Rock_FloorSingleBlockRight: 21300182
+      Tileset_Rock_WallRightCeilingCorner3: 21300206
+      Tileset_Rock_Ceiling4: 21300112
+      Tileset_Rock_WallRight2: 21300070
+      Tileset_Rock_Fill9: 21300042
+      Tileset_Rock_FloorCornerInnerRight3: 21300124
+      Tileset_Rock_WallLeftCeilingCorner4: 21300194
+      Tileset_Rock_FloorSingleBlock: 21300116
+      Tileset_Rock_FloorSingleBlock4: 21300156
+      Tileset_Rock_Fill0: 21300086
+      Tileset_Rock_SingleColumn2: 21300222
+      Tileset_Rock_CeilingCornerOuterRight: 21300068
+      Tileset_Rock_FloorSingleBlock0: 21300148
+      Tileset_Rock_Fill3: 21300092
+      Tileset_Rock_WallRight3: 21300126
+      Tileset_Rock_Ceiling0: 21300110
+      Tileset_Rock_WallLeftCeilingCorner0: 21300186
+      Tileset_Rock_WallRight4: 21300142
+      Tileset_Rock_FloorCornerInnerLeft1: 21300136
+      Tileset_Rock_WallLeft3: 21300114
+      Tileset_Rock_WallLeftCeilingCorner6: 21300198
+      Tileset_Rock_Fill7: 21300100
+      Tileset_Rock_FloorCornerInnerLeft0: 21300134
+      Tileset_Rock_WallLeftCeilingCorner1: 21300188
+      Tileset_Rock_WallLeft1: 21300036
+      Tileset_Rock_FloorSingleBlockLeft: 21300164
+      Tileset_Rock_FloorSingleBlock5: 21300166
+      Tileset_Rock_SingleColumn0: 21300218
+      Tileset_Rock_Fill11: 21300180
+      Tileset_Rock_FloorSingleBlock6: 21300168
+      Tileset_Rock_Ceiling5: 21300064
+      Tileset_Rock_FloorCornerSingleBlockRight: 21300158
+      Tileset_Rock_Ceiling1: 21300050
+      Tileset_Rock_WallLeftCeilingCorner2: 21300190
+      Tileset_Rock_Fill1: 21300088
+      Tileset_Rock_CeilingCornerGrassSingleLeft: 21300242
+      Tileset_Rock_Ceiling3: 21300060
+      Tileset_Rock_WallRightCeilingCorner1: 21300202
+      Tileset_Rock_SingleColumnBottom: 21300224
+      Tileset_Rock_WallRightCeilingCorner0: 21300200
+      Tileset_Rock_FloorCornerInnerRight1: 21300120
+      Tileset_Rock_CeilingCornerGrassRight: 21300236
+      Tileset_Rock_FloorCornerInnerRight2: 21300122
+      Tileset_Rock_SingleColumnCentreCorners: 21300234
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

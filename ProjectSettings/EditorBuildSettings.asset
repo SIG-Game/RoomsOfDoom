@@ -147,6 +147,12 @@ EditorBuildSettings:
     path: Assets/RoomsOfDoomLevels/Gen3/TestScene2.unity
     guid: 2aeb8586850faa94f8944a020061504a
   - enabled: 1
-    path: Assets/YuriiLevel1.unity
+    path: 
     guid: 9ea16c2b3e71fd44ea2dd2a90e57effe
+  - enabled: 1
+    path: Assets/YuriiLevel1.unity
+    guid: 2b4674e00a9fefb44bbf060afec90c27
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/YuriiLvl1.unity
+    guid: 83d3e36fad9a48e44a8b6a631c5c0f0b
   m_configObjects: {}

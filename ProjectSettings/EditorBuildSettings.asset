@@ -146,4 +146,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/Gen3/TestScene2.unity
     guid: 2aeb8586850faa94f8944a020061504a
+  - enabled: 1
+    path: Assets/YuriiLevel1.unity
+    guid: 9ea16c2b3e71fd44ea2dd2a90e57effe
   m_configObjects: {}

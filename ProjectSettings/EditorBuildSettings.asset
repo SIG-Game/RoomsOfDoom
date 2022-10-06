@@ -146,4 +146,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/Gen3/TestScene2.unity
     guid: 2aeb8586850faa94f8944a020061504a
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/xingweiLevel.unity
+    guid: ea419e65265a2f94e9fe4dab7d2c40c8
   m_configObjects: {}

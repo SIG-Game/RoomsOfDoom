@@ -146,4 +146,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/Gen3/TestScene2.unity
     guid: 2aeb8586850faa94f8944a020061504a
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/sebastianLevel.unity
+    guid: c7f5facca00bc934a849e674ebda822b
   m_configObjects: {}

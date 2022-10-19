@@ -120,7 +120,7 @@ TextureImporter:
       213: 21300076
     second: AlienFlora_52
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -140,8 +140,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -150,12 +148,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
-    aniso: 1
-    mipBias: 0
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -173,14 +171,9 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 1
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -208,30 +201,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1074,46 +1043,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      AlienFlora_17: 21300028
-      AlienFlora_5: 21300008
-      AlienFlora_24: 21300042
-      AlienFlora_18: 21300030
-      AlienFlora_28: 21300048
-      AlienFlora_48: 21300072
-      AlienFlora_6: 21300010
-      AlienFlora_22: 21300038
-      AlienFlora_29: 21300050
-      AlienFlora_0: 21300000
-      AlienFlora_1: 21300002
-      AlienFlora_21: 21300036
-      AlienFlora_26: 21300044
-      AlienFlora_27: 21300046
-      AlienFlora_19: 21300032
-      AlienFlora_31: 21300054
-      AlienFlora_8: 21300014
-      AlienFlora_23: 21300040
-      AlienFlora_35: 21300060
-      AlienFlora_39: 21300066
-      AlienFlora_7: 21300012
-      AlienFlora_45: 21300070
-      AlienFlora_30: 21300052
-      AlienFlora_16: 21300026
-      AlienFlora_33: 21300058
-      AlienFlora_14: 21300024
-      AlienFlora_4: 21300006
-      AlienFlora_3: 21300004
-      AlienFlora_9: 21300016
-      AlienFlora_52: 21300076
-      AlienFlora_42: 21300068
-      AlienFlora_32: 21300056
-      AlienFlora_20: 21300034
-      AlienFlora_51: 21300074
-      AlienFlora_10: 21300018
-      AlienFlora_11: 21300020
-      AlienFlora_38: 21300064
-      AlienFlora_12: 21300022
-      AlienFlora_36: 21300062
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

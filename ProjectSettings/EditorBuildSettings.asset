@@ -147,15 +147,6 @@ EditorBuildSettings:
     path: Assets/RoomsOfDoomLevels/Gen3/davidLevel.unity
     guid: 2aeb8586850faa94f8944a020061504a
   - enabled: 1
-    path: 
-    guid: 3e7a36d05352c1f469cb086cc8bcc068
-  - enabled: 1
-    path: 
-    guid: c571ab16fda94b64ca300f6a080ade1c
-  - enabled: 1
-    path: Assets/NewScene.unity
-    guid: a75f8c6373d92194985bb960a0d7e3f3
-  - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Gen3/davidLevel.unity
-    guid: 871c2a5e31e001a4d9d778a1d4478ae4
+    path: Assets/RoomsOfDoomLevels/Gen3/Aden's Newer Level.unity
+    guid: 3bc36fd32c7c5b24b91639cd726d0720
   m_configObjects: {}

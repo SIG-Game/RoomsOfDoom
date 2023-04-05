@@ -39,13 +39,13 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/RoomsOfDoomLevels/lv.4(Lv1.1).unity
+    path: Assets/RoomsOfDoomLevels/lv.3(Lv1.1).unity
     guid: c6f9f279d72f8724c8c2ce08ac89f8ee
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/RoomsOfDoomLevels/lv.3(Lv1.2).unity
+    path: Assets/RoomsOfDoomLevels/lv.2(Lv1.2).unity
     guid: c7a934e164aadf643b8bb2e18447469f
   - enabled: 0
     path: 
@@ -168,6 +168,6 @@ EditorBuildSettings:
     path: Assets/RoomsOfDoomLevels/Gen3/TestScene2.unity
     guid: 2aeb8586850faa94f8944a020061504a
   - enabled: 1
-    path: Assets/RoomsOfDoomLevels/Gen3/Aden's Newer Level.unity
+    path: Assets/RoomsOfDoomLevels/Aden's Newer Level.unity
     guid: 3bc36fd32c7c5b24b91639cd726d0720
   m_configObjects: {}

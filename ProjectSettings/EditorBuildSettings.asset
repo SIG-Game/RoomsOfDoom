@@ -155,4 +155,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ZaccTest.unity
     guid: 459791494f694b8468e0caf975d4ebe5
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen4/ZacharyLevel.unity
+    guid: feadd9dc99e99a946bfa6fc03c768c04
   m_configObjects: {}

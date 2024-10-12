@@ -48,3 +48,5 @@ Leaders: Aden Prince and Zachary Robbins
 * Additional Audio: Will Moore and Robin Harwood 
 * Character Concept Art: Devon Cady-Lee 
 * Animation: Lindsey Reimer
+
+*insert controversial statement here*

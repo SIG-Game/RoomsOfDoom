@@ -93,7 +93,7 @@ TextureImporter:
       213: 21300058
     second: LowerPlants5_65
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -110,9 +110,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -121,12 +124,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -144,9 +147,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -158,6 +167,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -170,6 +180,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -182,6 +193,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -1108,9 +1120,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      LowerPlants5_10: 21300008
+      LowerPlants5_11: 21300010
+      LowerPlants5_2: 21300000
+      LowerPlants5_21: 21300012
+      LowerPlants5_23: 21300014
+      LowerPlants5_24: 21300016
+      LowerPlants5_26: 21300018
+      LowerPlants5_28: 21300020
+      LowerPlants5_29: 21300022
+      LowerPlants5_31: 21300024
+      LowerPlants5_34: 21300026
+      LowerPlants5_37: 21300028
+      LowerPlants5_38: 21300030
+      LowerPlants5_39: 21300032
+      LowerPlants5_40: 21300034
+      LowerPlants5_45: 21300036
+      LowerPlants5_47: 21300038
+      LowerPlants5_49: 21300040
+      LowerPlants5_5: 21300002
+      LowerPlants5_50: 21300042
+      LowerPlants5_51: 21300044
+      LowerPlants5_53: 21300046
+      LowerPlants5_55: 21300048
+      LowerPlants5_56: 21300050
+      LowerPlants5_62: 21300052
+      LowerPlants5_63: 21300054
+      LowerPlants5_64: 21300056
+      LowerPlants5_65: 21300058
+      LowerPlants5_7: 21300004
+      LowerPlants5_9: 21300006
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -170,4 +170,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/Gen4/IsaacLevel.unity
     guid: d8684e7e6c427004aa24eff94157832a
+  - enabled: 1
+    path: 
+    guid: c059f4d3385ed475899fa92c645ba4e9
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: 76d0a91bbecd546d8804bd62473b13d6
   m_configObjects: {}

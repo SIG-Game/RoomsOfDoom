@@ -159,6 +159,15 @@ EditorBuildSettings:
     path: Assets/RoomsOfDoomLevels/Gen4/ZacharyLevel.unity
     guid: feadd9dc99e99a946bfa6fc03c768c04
   - enabled: 1
+    path: Assets/TestScene.unity
+    guid: ac4bb3290a1811d41be8031303ce3439
+  - enabled: 1
+    path: Assets/TestScene2.unity
+    guid: 41b108a904a60ef4b90869f202b6ab49
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen4/VinhLevel.unity
+    guid: 9d7c21a94d124ef46bb669ae3f878536
+  - enabled: 1
     path: Assets/RoomsOfDoomLevels/Gen4/IsaacLevel.unity
     guid: d8684e7e6c427004aa24eff94157832a
   m_configObjects: {}

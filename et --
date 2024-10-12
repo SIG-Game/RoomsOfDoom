@@ -1,0 +1,1395 @@
+[33mcommit a4aa30f035ccb9a91d6398d9f17f374a928d4cc2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpremain[m[33m, [m[1;31morigin/premain[m[33m)[m
+Merge: 9683c73 8fc96b4
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 15:42:33 2024 -0500
+
+    Merge branch 'Speedrun_Branch' into premain
+
+[33mcommit 9683c739c02b7770070db7c3a83f7f35a48a0e24[m
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 09:19:39 2024 -0500
+
+    Modified helloworld.txt
+
+[33mcommit ae5dad50633f5aeddddb8db3580794e2c7a64ce8[m
+Merge: a631512 eba7316
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 09:18:55 2024 -0500
+
+    Merge branch 'zaccdevbranch' into premain
+
+[33mcommit a6315126fb9f5c1fee221084b9f8eec02e77f5e2[m
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 09:12:32 2024 -0500
+
+    Update .gitignore
+
+[33mcommit 92d0f6b54ad9b0b98047019feb33f65f7b3436f5[m
+Merge: 701ca36 7ec83cf
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 09:12:09 2024 -0500
+
+    Merge branch 'eky2devbranch' into premain
+
+[33mcommit 7ec83cfcd260c4712049643ae2f49e45060e5da8[m[33m ([m[1;32meky2devbranch[m[33m)[m
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 09:06:57 2024 -0500
+
+    Fixed Ellen Prefab Error
+
+[33mcommit 701ca36509c4c1d6c39cc3f6c60eabbc5928c6b3[m
+Merge: f2a5b3c bc665e1
+Author: Ethan Ky <132713901+eky2429@users.noreply.github.com>
+Date:   Sat Oct 12 08:17:12 2024 -0500
+
+    Merge pull request #11 from SIG-Game/sskean2devbranch
+    
+    Created helloworld.txt
+
+[33mcommit f2a5b3caac9649dbb33163d4a9051fbb4b333068[m
+Merge: 0461a09 c5b37fa
+Author: Ethan Ky <132713901+eky2429@users.noreply.github.com>
+Date:   Sat Oct 12 08:05:01 2024 -0500
+
+    Merge pull request #12 from SIG-Game/VinhDevBranch
+    
+    Merge Vinh dev branch in premain
+
+[33mcommit c5b37fa1bf6e9ff946249b1d90cfd7bc6203f6d3[m[33m ([m[1;32mVinhDevBranch[m[33m)[m
+Merge: b3ee36b 0461a09
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 08:04:22 2024 -0500
+
+    Merge branch 'premain' of https://github.com/SIG-Game/RoomsOfDoom into VinhDevBranch
+
+[33mcommit b3ee36bf06d5ce8e0df48ad5f9d6fc45f480ca8f[m
+Author: eky2429 <eky2429@gmail.com>
+Date:   Sat Oct 12 07:52:57 2024 -0500
+
+    Moved VinhLevel to correct slot
+    
+    VinhLevel in Gen4 folder was an empty scene, so I fixed it!
+
+[33mcommit eba7316a7eef5f1416d8e0a5d22862d8489aa5bb[m[33m ([m[1;32mzaccdevbranch[m[33m)[m
+Author: Zlrobbins9 <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Mon Feb 12 17:42:44 2024 -0600
+
+    Added test level to show off unity and git mechanics
+    
+    This will NOT get me cancelled!
+
+[33mcommit 0461a09a8d5ad5d8c65b31aa6151728b2b5b1e34[m[33m ([m[1;32mZachDevBranch[m[33m)[m
+Author: Zlrobbins9 <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Mon Feb 12 17:27:42 2024 -0600
+
+    Added controversial statement to readme
+    
+    Time to get cancelled
+
+[33mcommit 488d651b83fdb6a7c33cf5224d06d66190a72eff[m[33m ([m[1;32mitsasamDevBranch1[m[33m, [m[1;32misanch35devbranch[m[33m)[m
+Merge: 0c3a9b8 9acf479
+Author: IsaacS2Hud <isanch35@uic.edu>
+Date:   Wed Oct 11 17:46:49 2023 -0700
+
+    Merge remote-tracking branch 'origin/premain' into isanch35devbranch
+
+[33mcommit 0c3a9b80d9d91aef5a32ebf1ff8735425d1dfe18[m
+Author: IsaacS2Hud <isanch35@uic.edu>
+Date:   Wed Oct 11 17:45:00 2023 -0700
+
+    Completed Isaac Level
+
+[33mcommit d5aee3a3d7bc0487e922cf76363e9c56e9ae9c9c[m
+Merge: af16f40 9acf479
+Author: Moxxic0 <vhuyn2@uic.edu>
+Date:   Wed Oct 11 17:58:44 2023 -0500
+
+    Merge branch 'premain' into VinhDevBranch
+
+[33mcommit af16f406a8c4906070475a31526ef8cb65b24200[m
+Author: Moxxic0 <vhuyn2@uic.edu>
+Date:   Wed Oct 11 17:58:04 2023 -0500
+
+    Level commit
+    
+    is the level
+
+[33mcommit f6490b86aab93fd5d4ad82697bc321668a99e76d[m
+Author: eky2 <eky2@uic.edu>
+Date:   Wed Oct 11 17:49:55 2023 -0500
+
+    Fixed box near end of level
+    
+    Box now crushed enemies
+
+[33mcommit e8fff1e2d8c54ed9bb9fe3a995afd2d75df4a774[m
+Author: eky2 <eky2@uic.edu>
+Date:   Tue Oct 10 09:41:10 2023 -0500
+
+    Added my level
+    
+    Ethan's Level
+
+[33mcommit 9acf47925a28d361aba98dd20b5786b0733d7bfc[m[33m ([m[1;32mChrisDevBranch[m[33m)[m
+Author: Chris Wood <118241499+Cwood00@users.noreply.github.com>
+Date:   Sun Oct 8 23:10:50 2023 -0500
+
+    Finished ChrisLevel
+
+[33mcommit ba3c9adba86f2a3037fa19ebf61cd19104d9b0d9[m
+Author: Chris Wood <118241499+Cwood00@users.noreply.github.com>
+Date:   Wed Oct 4 19:19:43 2023 -0500
+
+    Moved ChrisLevel to correct folder, and started working level design
+
+[33mcommit f8a207a91d1dd0e1125ba12b8efdbb5a4d5b1862[m
+Merge: 4488191 d732f9b
+Author: Isaac Sanchez <isanch35@uic.edu>
+Date:   Wed Oct 4 18:43:34 2023 -0500
+
+    Merge branch 'premain' into isanch35devbranch
+
+[33mcommit 4488191fccaa653171af53c09e7ee39dc0ea9d67[m
+Author: Isaac Sanchez <isanch35@uic.edu>
+Date:   Wed Oct 4 18:41:35 2023 -0500
+
+    Imported project
+
+[33mcommit f693f3842d5dabd590076dae5f83ba33a8849b43[m
+Merge: 2814906 d732f9b
+Author: eky2 <eky2@uic.edu>
+Date:   Wed Oct 4 18:40:43 2023 -0500
+
+    Merge branch 'premain' into eky2devbranch
+
+[33mcommit 281490613aafc5ed3d618a8c054bdd5d99cfd562[m
+Author: eky2 <eky2@uic.edu>
+Date:   Wed Oct 4 18:38:27 2023 -0500
+
+    DS store file changed
+
+[33mcommit e8746c4e26bcacafa15f3d38622d45c0aa6efe6c[m
+Merge: 1a79422 d732f9b
+Author: Chris Wood <118241499+Cwood00@users.noreply.github.com>
+Date:   Wed Oct 4 18:34:44 2023 -0500
+
+    Merge branch 'premain' into ChrisDevBranch
+
+[33mcommit 1a7942288ebaabca74b67d03eed36acce93a0b22[m
+Merge: 67e8e24 43cfabf
+Author: Chris Wood <118241499+Cwood00@users.noreply.github.com>
+Date:   Wed Oct 4 18:34:29 2023 -0500
+
+    Merge branch 'premain' into ChrisDevBranch
+
+[33mcommit 67e8e24f3660af39d25600e1643bcdb4eae69737[m
+Author: Chris Wood <118241499+Cwood00@users.noreply.github.com>
+Date:   Wed Oct 4 18:34:10 2023 -0500
+
+    Added ChrisLevel
+
+[33mcommit d732f9b2baa47689ae9a74e1a61c44cac35c33c3[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Oct 4 18:33:22 2023 -0500
+
+    Update ZacharyLevel.unity
+
+[33mcommit 43cfabfc68c0544407b33ce1b67111ae1588ceea[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Oct 4 18:20:56 2023 -0500
+
+    Added more level
+
+[33mcommit c6f810e87b45392e3488c570003557b91ca0ba10[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Oct 4 18:19:06 2023 -0500
+
+    Added Zacc level
+    
+    its epic
+
+[33mcommit 7db580769cdcd148d505b5a612f0546c0b7c74f7[m
+Author: eky2 <eky2@uic.edu>
+Date:   Wed Sep 27 18:51:30 2023 -0500
+
+    -DS_Store files changed
+    
+    I tried to open README.md and this is what happened
+
+[33mcommit bc665e1dc3a1fe7c32e0c82badbe6ff7eaf288bc[m[33m ([m[1;32msskean2devbranch[m[33m)[m
+Author: Samuel Skean <48303350+samuel-skean@users.noreply.github.com>
+Date:   Wed Sep 27 18:51:14 2023 -0500
+
+    Created helloworld.txt
+    
+    Made my first change, created helloworld.txt.
+
+[33mcommit ab0495e3061c0bcd0fb643191f90e85afb3ab7c2[m
+Merge: 08d215b a8be315
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Sep 27 18:50:54 2023 -0500
+
+    Merge branch 'premain' into zaccdevbranch
+
+[33mcommit 08d215bcbbccfae232b54de04c07e6ea8321b84b[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Sep 27 18:49:47 2023 -0500
+
+    Added helloworld.text
+    
+    Yassss
+
+[33mcommit 8fc96b4e7d71eaa29f263a3d561a481414daafda[m[33m ([m[1;31morigin/Speedrun_Branch[m[33m, [m[1;32mSpeedrun_Branch[m[33m)[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 18:20:30 2023 -0500
+
+    Incorporated gen 3 levels
+
+[33mcommit 4e731434db4bdf77f83be4d3afc55672a7987ac6[m
+Merge: a942c6c a8be315
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 16:39:19 2023 -0500
+
+    Merge branch 'premain' into Speedrun_Branch
+
+[33mcommit a8be315d65248aac83ee91cd96d20fa56bb12915[m
+Merge: 629c827 8443518
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 16:34:39 2023 -0500
+
+    Merge pull request #5 from SIG-Game/xingweidevbranch
+    
+    Xingweidevbranch
+
+[33mcommit 84435180220b4fe95fb482b4dcd69dab1af4e201[m
+Merge: 5b8b92d 629c827
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 16:34:27 2023 -0500
+
+    Merge branch 'premain' into xingweidevbranch
+
+[33mcommit 629c82711df64142fb419953fd103fd6fc8f8ab6[m
+Merge: d95a618 f685c1d
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 15:35:39 2023 -0500
+
+    Merge pull request #8 from SIG-Game/sebastiandevbranch
+    
+    Added Sebastian's level
+
+[33mcommit f685c1da8d34173e9b8ce973aa4f9c7a2b8d4332[m
+Merge: f13dc95 d95a618
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 15:34:43 2023 -0500
+
+    Merge branch 'premain' into sebastiandevbranch
+
+[33mcommit d95a6183653d1e54114a630e599f32e57d9d82ed[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 15:31:02 2023 -0500
+
+    Moved Aden's levels
+
+[33mcommit b51d43a8586476bb3c0cc3092d5157ecc8941214[m
+Merge: cc35bef 0655198
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 13:49:30 2023 -0500
+
+    Merge pull request #9 from SIG-Game/bokydevbranch
+    
+    Finished a beta level
+
+[33mcommit cc35bef7056938ef7f81c40b0379c84781ad14c8[m
+Merge: e6a89ac 63887e9
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 13:40:29 2023 -0500
+
+    Merge pull request #10 from SIG-Game/YuriiDevBranch
+    
+    Yurii's level
+
+[33mcommit 63887e9a4c36558a10e64d2929118eaaccf89e5e[m
+Merge: b5b35ba e6a89ac
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Apr 5 13:36:41 2023 -0500
+
+    Merge branch 'premain' into YuriiDevBranch
+
+[33mcommit e6a89acf465cf4e98f9ac4429b6c8b29df2bb7b2[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed Mar 29 21:09:52 2023 -0500
+
+    Add "Aden's Newer Level.unity"
+    
+    Also add CloudMovement.cs and WaveMovement.cs.
+
+[33mcommit 065519866798317afe36d69f8334645db4b39e83[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue Oct 18 21:51:03 2022 -0500
+
+    Remove added files in ProjectSettings folder
+
+[33mcommit b0e7cb79076725eaab3d8b5b82bdb39c46e167e7[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue Oct 18 21:46:56 2022 -0500
+
+    Revert some unneeded changes
+
+[33mcommit b5b35baff4928af8caf34cdcd8da7c6b729fe1f3[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue Oct 18 21:19:09 2022 -0500
+
+    Move added environment animations and animator controllers to Assets/Animations/Environment folder
+
+[33mcommit b0b2bed7574aa71bcd9ee44819abb28a5066f161[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Tue Oct 18 20:33:54 2022 -0500
+
+    Deleted extra YuriiLvl1
+
+[33mcommit 28d42ecbf5b3962f789b8ced2b3caeffdb8384ba[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Tue Oct 18 12:10:39 2022 -0500
+
+    Update PlantMidSized.png.meta
+
+[33mcommit bfe832b96a7d24b7614ba9ead94003675893bd4b[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Tue Oct 18 12:10:16 2022 -0500
+
+    Yurii's Level
+    
+    Teleporter(2) and Teleported(3) are both end of level teleporters.
+
+[33mcommit 7cb0006d325556652dac20b2f7caa1a41347a0d0[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Tue Oct 18 11:25:48 2022 -0500
+
+    Update YuriiLvl1.unity
+
+[33mcommit c6a3895084e272207d674a30158aa69df07444ce[m
+Author: rchoi21 <beckychoi15@gmail.com>
+Date:   Mon Oct 17 22:50:35 2022 -0500
+
+    Finished a beta level
+
+[33mcommit f13dc95d9616feb46a4548395c2ff4c458c351ee[m
+Author: maiuryn <sebastianho0311@gmail.com>
+Date:   Sun Oct 16 18:24:03 2022 -0500
+
+    Created Level
+
+[33mcommit 1a4440d3a80621eda5d719bf071472276e07cb49[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Wed Oct 12 19:20:05 2022 -0500
+
+    Update YuriiLvl1.unity
+
+[33mcommit 5b8b92da09c010355528e9d9e90bcfd5ff99fc68[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Sun Oct 9 11:57:05 2022 -0500
+
+    Add kill collider under the level to xingweiLevel.unity
+
+[33mcommit 72b0230a4d3adf0ebd72c9405ee49266e955ee35[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Sun Oct 9 11:52:35 2022 -0500
+
+    Move InitialTransitionDestination in xingweiLevel.unity to fix restarting the level
+
+[33mcommit 408b98c2d810b4e639b285367e235358fcd13b85[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Sun Oct 9 11:47:23 2022 -0500
+
+    Remove keys and revert player inventory changes in xingweiLevel.unity
+
+[33mcommit 4fa28ba94bddb5c9bbc3e79bbb6e60540dee7297[m
+Merge: 1397ce0 22bfbdd
+Author: Aden Prince <adenprince@gmail.com>
+Date:   Sat Oct 8 21:51:31 2022 -0500
+
+    Merge pull request #3 from SIG-Game/bokydevbranch
+    
+    added level (test)
+
+[33mcommit cf21b0884baf14415cfb74b07daa82cdd14acf21[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Thu Oct 6 11:11:38 2022 -0500
+
+    Update YuriiLvl1.unity
+
+[33mcommit 232db69b597a300f9f573b75da4cdf3c423e94d9[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Thu Oct 6 09:26:49 2022 -0500
+
+    Update YuriiLvl1.unity
+
+[33mcommit 9653d3f6290cae044c662d4122dfda6b7fa63889[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Thu Oct 6 09:08:04 2022 -0500
+
+    YuriiLvl1
+
+[33mcommit f92b6aaa4d53509149d900e443d7404d874f1c47[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed Oct 5 21:49:24 2022 -0500
+
+    Revert DialogueCanvas.prefab changes
+
+[33mcommit ae3784125fa1defa9406b302abc6853e08527e4b[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Wed Oct 5 19:27:52 2022 -0500
+
+    Update YuriiLevel1.unity
+
+[33mcommit 8f0541161eec006665d9f83d6a4033419be6059f[m
+Author: ykoval201 <ykoval201@gmail.com>
+Date:   Wed Oct 5 19:14:08 2022 -0500
+
+    YuriiLevel1
+
+[33mcommit e33c0b2229aa4d1e94a1ae9db759078a07b55909[m
+Merge: d2d1fb5 1397ce0
+Author: YuTrippin <awesomemythz@gmail.com>
+Date:   Wed Oct 5 19:08:17 2022 -0500
+
+    Merge branch 'premain' into xingweidevbranch
+
+[33mcommit d2d1fb59631171bd705709cb84792913dc903e98[m
+Author: YuTrippin <awesomemythz@gmail.com>
+Date:   Wed Oct 5 19:07:08 2022 -0500
+
+    New Level designed by Xingwei
+
+[33mcommit 22bfbdd55e7366c0587100c7bb272570792a2b3d[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed Oct 5 18:45:39 2022 -0500
+
+    Revert unnecessary project version change and project file changes
+
+[33mcommit 7d71abd8626ab07b37e60e4a0e854ffa490b87a4[m
+Author: rchoi21 <beckychoi15@gmail.com>
+Date:   Wed Oct 5 18:01:13 2022 -0500
+
+    added level (test)
+
+[33mcommit 1397ce0197c3c27bebbbd6c753c39042e6306b75[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed Sep 21 19:09:47 2022 -0500
+
+    Enable HealthCanvas in _TemplateScene
+
+[33mcommit 092165e3b0e204a331dd4322294d2006fa79fb51[m
+Merge: 81d224e de77c74
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Sep 21 19:01:44 2022 -0500
+
+    Merge branch 'premain' into zaccdevbranch
+
+[33mcommit de77c7460ee740dd3f053a1a25c3fa2ff727cb7a[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Sep 21 17:55:26 2022 -0500
+
+    Added Gen 3 for real this time, along with example levels
+
+[33mcommit 19c7dc71df2da8a31bd476fc3f0ecfc6908ae411[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Sep 21 16:55:06 2022 -0500
+
+    Added Gen 3 folder
+
+[33mcommit 334f0cee25200131b1b2b14591315c18e374c7b9[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Sep 14 18:07:13 2022 -0500
+
+    Create Gen3.meta
+
+[33mcommit a942c6c934c828283a985e0d295d35c278f991c1[m
+Merge: 44e86b4 6f2980a
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 16:55:45 2022 -0600
+
+    Merge branch 'Speedrun_Branch' of https://github.com/SIG-Game/RoomsOfDoom into Speedrun_Branch
+
+[33mcommit 44e86b47c42e3901f55ac9f78901d9239120903a[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 16:55:23 2022 -0600
+
+    Added silver's level
+    
+    Build is complete
+
+[33mcommit 6f2980a43dd571cd988ea795c6464f26a20fa53b[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Jan 28 16:43:38 2022 -0600
+
+    Updated level 12 switch interaction trigger layers
+
+[33mcommit 67f5087ba9cc2bc5d262b3272a76fbf324736aa8[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 16:40:47 2022 -0600
+
+    added new levels
+    
+    - Added Aden's new level
+    - fixed game so it can be replayed infinitely w/o closing the game
+    - renamed Aden's level from "New Game" to "lv.12(Lv3.2)"
+    -moved the welcome dialogue from level 4 to level 1
+
+[33mcommit 440750fca037565d6956bd5512d736a5862bdc02[m
+Merge: 4681d9b 434f258
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 16:26:04 2022 -0600
+
+    Merge branch 'Speedrun_Branch' of https://github.com/SIG-Game/RoomsOfDoom into Speedrun_Branch
+
+[33mcommit 434f258e9da934a71e4286af58fa170a4e211558[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Jan 28 16:09:20 2022 -0600
+
+    Updated spikes in level 11
+
+[33mcommit 9c87e78032d34160d78f6cb3b3e612befd249eaf[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Jan 28 16:00:14 2022 -0600
+
+    Fixed moving platform collision in level 9
+
+[33mcommit 4681d9b0eb0b176e2fa1e0c898307cb520c5ec53[m
+Merge: 7db8322 cb7a261
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 16:00:07 2022 -0600
+
+    Merge remote-tracking branch 'origin/Silverdevbranch' into Speedrun_Branch
+
+[33mcommit 7db83220c00e74185a3b35944bf2ea64ab77735b[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Jan 28 15:40:34 2022 -0600
+
+    Added end screen scene
+
+[33mcommit 18607b7c9b7eabf136d4dc7ac9ce6c99623d0bab[m
+Merge: 8d242c8 2f3be42
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Jan 28 15:35:13 2022 -0600
+
+    Merge branch 'AdenDevBranch' into Speedrun_Branch
+
+[33mcommit cb7a261090ebdb45d4f0a9c02addcbf53ba77a0d[m
+Author: Silver Nhan <76749421+Sillvernhancs@users.noreply.github.com>
+Date:   Fri Jan 28 15:04:56 2022 -0600
+
+    made things for zack the lord
+    
+    2.3
+
+[33mcommit 2f3be420f4f3c57165d33989f96d7929da1ebf95[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Jan 28 14:57:51 2022 -0600
+
+    Added new level
+
+[33mcommit 8d242c8f2799064687c718f9dbd790ed92a92cb3[m
+Merge: 8cbfe5b afabcaf
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 14:45:42 2022 -0600
+
+    Merge branch 'premain' into Speedrun_Branch
+
+[33mcommit 8cbfe5bd1c8efeaf2c116c0f717fef31b3e09653[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 14:44:42 2022 -0600
+
+    Structure v1 is ready
+    
+    - rearranged levels
+    - removed extraneous levels
+    -renamed levels to reflect their positions in the speedrunning competition
+
+[33mcommit 81d224e69d66bcb878cd2ebd916a3f6c6109a0db[m
+Merge: e2838ff 47b4d9f
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 10:15:46 2022 -0600
+
+    Merge remote-tracking branch 'origin/DanielDevBranch' into zaccdevbranch
+
+[33mcommit e2838ff58638f0470a861d65091055e43aabb374[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Jan 28 10:14:58 2022 -0600
+
+    Added tutorial, fixed 1.2
+    
+    - Added level 1.0, a tutorial level for players, though it still needs instructions
+    - fixed a bug where level 1.2 end portal didnt warp to 1.3.
+
+[33mcommit afabcaf550371c6057f64ffd02093b14e06f1dca[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Thu Jan 27 22:50:08 2022 -0600
+
+    Added interactive SIG Game logo intro animation
+
+[33mcommit 47b4d9f16bd13077ec2c2326eff833b22e912d44[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Thu Jan 27 15:06:12 2022 -0600
+
+    Update Lv1.2.unity
+    
+    fixed door to work on interact
+    
+    (trigger should also work - was on an "external call" which seemed to just loop back to level 2 - this way can get to crazy cool level 3)
+
+[33mcommit e134f2cb12c7cb006a84968d715689940fc57241[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Thu Jan 27 12:13:23 2022 -0600
+
+    just in case
+    
+    additional button on bottom level 3.7a
+    in case key was missed at start
+
+[33mcommit 602ff51c2395abe4f4b4ff2275a372cd1974e976[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Thu Jan 27 11:51:09 2022 -0600
+
+    new door 3.7
+    
+    added another door to make this level
+    just a bit more difficult (!)
+
+[33mcommit e74041ff82e509dd9d7e71b49ecb9ab70ca1bb90[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Thu Jan 27 11:46:22 2022 -0600
+
+    added an extra door
+    
+    added an extra door to make 3.7a
+    geography a bit harder to navigate than
+    3.7
+
+[33mcommit bfbc7cfdde57a68ce688b60c34be86a2d92d3dd8[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Thu Jan 27 02:37:12 2022 -0600
+
+    level 3.7a lead in
+    
+    level 3.7a is an imperfect copy of
+    level 3.7 (without the spitters but
+    with a few more health(s))
+    it leads into level 3.7
+    it has some issues - I figured out that if I copy all the assets from the scene into a new scene I can get a reasonable copy but of course some things (like cameras and ellens!!) can get duplicated if you aren't careful -- todo: clean up dopplegangers I created here... er..
+
+[33mcommit a4be71009709fbd8a76a4888e4bc1742db8f787f[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Thu Jan 27 01:17:34 2022 -0600
+
+    level 7 preceding
+    
+    (ironically) this one is really difficult (at least for me)
+    because: its currenty set to go to lv3.12 (
+    "easy" lead in through lv3.15 to lv1.1)
+
+[33mcommit 3b3699137364456741edf6aacf5284b6d5b85415[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed Jan 26 21:51:00 2022 -0600
+
+    Fixed softlock caused by taking damage while putting away ranged weapon
+
+[33mcommit 14d90fcd4736b4ec591bbc85ca9c146d52efe611[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Wed Jan 26 20:25:58 2022 -0600
+
+    14 and 15
+    
+    levels 14 and 15 (gen3)
+    
+    with some saves to level  13 I missed on the last check in (also there is a small bug - when you exit the info item then the dialog appears)
+
+[33mcommit 835ddaf7035064b9fc9c3810e4c89f6ef7bbe648[m
+Author: dhelle2 <dhelle2@uic.edu>
+Date:   Wed Jan 26 20:10:22 2022 -0600
+
+    mini levels
+    
+    in gen3 folder
+    
+    so far: 11 goes to 12 goes to 13 goes to gen1 level 1
+    
+    (old folder is buggy and also the levels don't connect)
+    
+    stay tuned for levels 14 and 15!
+
+[33mcommit f877d82a8d488456d8a8fe1b6000c0f6369df087[m
+Merge: 34e8060 8521f32
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Jan 26 17:04:29 2022 -0600
+
+    Merge branch 'premain' into zaccdevbranch
+
+[33mcommit 34e8060f576d594a7d6fc454d99669420fa3c06b[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Wed Jan 26 17:04:17 2022 -0600
+
+    Updated Level 2.1 so health UI works
+    
+    Also added a reset door
+
+[33mcommit 8521f3279b1183a945fe89a7a2a604c3a5d8e9ab[m
+Author: Adrian Knight <aknig2@uic.edu>
+Date:   Wed Jan 19 18:21:55 2022 -0600
+
+    Started 2.2
+
+[33mcommit 40b6f75be39be323243a4a3a3741bb310a9eafc8[m
+Merge: d5a4145 08b82f3
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Oct 22 17:10:25 2021 -0500
+
+    Merge branch 'premain' into zaccdevbranch
+
+[33mcommit d5a41457b3dd1052155de92c35b0d6d57eca1211[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Oct 22 17:09:01 2021 -0500
+
+    Modified core of Rooms of Doom
+    
+    - Removed Extraneous levels
+    - Generations of rooms of doom levels now have their own folders
+    - the folder that those folders are in (the level folder) is now called RoomsOfDoomLevels.
+    - Generation two has been set up, but with some issues...
+       + The portal is off screen
+       + The portal's scale is distorted
+       + The portal has the incorrect destination
+       + The health UI is disabled
+       + There is a enemy on top of where the player spawns
+
+[33mcommit 08b82f39f0343f996a7b74520bb0e911f63b5971[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mitsasamDevBranch[m[33m)[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Oct 22 08:02:24 2021 -0500
+
+    Made Creators text bigger
+
+[33mcommit ab495868ff3946434471c6b84bffadd1bcce6438[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Oct 22 08:01:11 2021 -0500
+
+    Multiple generation wording added to README
+    
+    README now shows this is an ongoing project, as well as clarifying the level designers for spring 2021 as such.
+
+[33mcommit 91d5d86c245fd2bf3d94b122594045480c1f9fca[m
+Merge: 4732b4e b180301
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Oct 22 07:48:15 2021 -0500
+
+    Merge branch 'main' into premain
+
+[33mcommit b180301e7016387d84ac38e01cf1871d62a5d24a[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Sat Aug 21 14:14:35 2021 -0500
+
+    Enabled VSync
+
+[33mcommit c49035731bae3b51b0270d2b3bf45d790565507e[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Sat Aug 21 12:39:08 2021 -0500
+
+    Changed UIC ACM SIG Game to ACM SIG Game@UIC
+
+[33mcommit 4732b4e2aab66bffc2629be96580d1f1b5821453[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Mon May 17 23:33:46 2021 -0500
+
+    Fixed music overlapping and not being affected by volume sliders in Scene7.unity
+
+[33mcommit e4a783b36f75a4ac53c39310b3dbc139de0c032f[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri May 14 15:13:01 2021 -0500
+
+    Update README.md
+
+[33mcommit 3d520fe203bb1925055eb4df6b58edc9698630e8[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri May 14 14:45:13 2021 -0500
+
+    Update README.md
+    
+    Now contains credits to everyone involved as well as a basic description of the problem and a link to the game builds
+
+[33mcommit b712da9cb18d88d4be73c67a314d11b92387f063[m
+Merge: 74f5b5e 4f3f821
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Thu May 13 20:06:18 2021 -0500
+
+    Merge branch 'premain' into main
+
+[33mcommit 4f3f8211b3cfecf71bb546604fb2a2b560c8aa06[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed May 12 20:22:52 2021 -0500
+
+    Fixed restarting in some levels
+
+[33mcommit 91a499c60df0a166e3a7b5c8943b09b1a83a8543[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed May 12 17:01:42 2021 -0500
+
+    Made all player kill colliders force respawn and ignore invincibility
+
+[33mcommit e4650ecad3cbb7311c561850d6c3051d5f941468[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed May 12 16:22:36 2021 -0500
+
+    Added contributors in UIC ACM SIG Game to credits and removed start menu URL button
+
+[33mcommit 82ca4169723c174bcd9e2e49d87c769330e51cba[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed May 12 15:29:45 2021 -0500
+
+    Added current level name to pause menu
+
+[33mcommit 7dd9dafd25066ccc28326d284acaad584baacf86[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue May 11 23:31:33 2021 -0500
+
+    Updated Scene1.unity dialogue and dialogue script
+
+[33mcommit b7d076ad493ead892b0d58d0797ea5b547d69c86[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue May 11 23:08:06 2021 -0500
+
+    Updated scene transitions
+
+[33mcommit 283b8e69f44ed9832c4ec6cd275663d925b168fd[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue May 11 22:29:37 2021 -0500
+
+    Added player kill collider under level to Scene6.unity and Scene14.unity
+
+[33mcommit ba0120e9736c3d77bcab60677966d0b16ad2c436[m
+Merge: 4470713 dffde84
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue May 11 20:24:25 2021 -0500
+
+    Merge branch 'WaleedDevBranch' into premain
+
+[33mcommit 44707134884e7572abaa286fbee6acd9724c72a9[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue May 11 20:09:58 2021 -0500
+
+    Added Izaan's level back
+
+[33mcommit c7b5b81fd9a81d0f2cca6c922040d03d4a41bd2e[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue May 11 00:00:14 2021 -0500
+
+    Revert "Level name: "The trail of trickery""
+    
+    This reverts commit a829c149bef46c90d8de0835a8c7fad1bd5921e8.
+
+[33mcommit a829c149bef46c90d8de0835a8c7fad1bd5921e8[m
+Author: izaan0 <78626320+izaan0@users.noreply.github.com>
+Date:   Mon May 10 23:37:49 2021 -0500
+
+    Level name: "The trail of trickery"
+    
+    This level is very tricky and involves quick reaction time.
+
+[33mcommit f9eaa1866af9d99184d9eb28d729cd149d0490ec[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Tue Apr 27 18:17:49 2021 -0500
+
+    Updated scene transitions
+
+[33mcommit b5e65d6de22a458487084a0ea2024d01142562a1[m
+Author: ThomasAlakkatt <75508664+ThomasAlakkatt@users.noreply.github.com>
+Date:   Tue Apr 27 16:29:36 2021 -0500
+
+    Scene 7 Thomas
+
+[33mcommit 1747c173482902e92ee38ad0d38b61d9051c65b0[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 23 23:55:48 2021 -0500
+
+    Updated level order and added scene fixes
+
+[33mcommit dffde845bba558dc1833a600d5c05ff0eb745ecd[m
+Author: waleed-khan <wkhan22@illinois.edu>
+Date:   Fri Apr 23 21:02:51 2021 -0500
+
+    Updated Scene 14 for first playtest
+
+[33mcommit 0531cadb7357456236dc02989abcf07624e723d2[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 23 17:36:38 2021 -0500
+
+    Updated Scene3.unity
+
+[33mcommit e59973603f6053bd59e785c1c847332885ec5321[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 23 17:17:37 2021 -0500
+
+    Fixed packages
+
+[33mcommit bc1e64ff9f065c99bcc2ac748c6b03ba669a0a8e[m
+Merge: eb7dd79 7fe9d3e
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Apr 23 16:54:15 2021 -0500
+
+    Merge branch 'premain' of https://github.com/SIG-Game/RoomsOfDoom into premain
+
+[33mcommit eb7dd79a7775858843ea6bed167813392508bd7c[m
+Merge: fdda2c3 8a888ee
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Apr 23 16:53:54 2021 -0500
+
+    Merge branch 'Bilalsbranch' into premain
+
+[33mcommit 7fe9d3e52a2c2cffd4772fe32dc86eee140e2c0e[m
+Merge: e315250 fdda2c3
+Author: hvujic7 <54562551+hvujic7@users.noreply.github.com>
+Date:   Fri Apr 23 16:52:58 2021 -0500
+
+    Merge branch 'premain' into HarisVujicbranch
+
+[33mcommit e315250c7a3cad94652b1cb2f821ee8e4979b63e[m
+Author: hvujic7 <54562551+hvujic7@users.noreply.github.com>
+Date:   Fri Apr 23 16:52:36 2021 -0500
+
+    Update Scene4.unity
+
+[33mcommit 8a888eec50384fdc49a272bbb6cab27a456ba7e4[m
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Apr 23 16:52:30 2021 -0500
+
+    Update Scene9.unity
+
+[33mcommit b349d7a8ac94642f534ef71ac84113172352dce2[m
+Author: hvujic7 <54562551+hvujic7@users.noreply.github.com>
+Date:   Fri Apr 23 16:49:52 2021 -0500
+
+    Update Scene4.unity
+    
+    Final version
+
+[33mcommit d76d967b0ff101d71a42029395ba06bfbc45c725[m
+Author: waleed-khan <wkhan22@illinois.edu>
+Date:   Fri Apr 23 00:57:21 2021 -0500
+
+    Starting working on scene 14
+
+[33mcommit fdda2c3bde66abb409299e03d1718c7939a7e4f8[m
+Merge: 773c05e 4a18004
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Thu Apr 22 22:40:10 2021 -0500
+
+    level3
+
+[33mcommit 773c05e612ee654800110bf5e69d125e4dd11f73[m
+Merge: 23f86d9 bb42c45
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Thu Apr 22 19:39:33 2021 -0500
+
+    Merge branch 'premain' into Emily_Dev_Branch
+
+[33mcommit 23f86d988805a4edd1f051c28fee198dc2f52068[m
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Wed Apr 21 23:02:41 2021 -0500
+
+    Small Bug Fixes
+
+[33mcommit 36aeda9de3de8c936771de0abf30488cb8c33e26[m
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Wed Apr 21 09:44:14 2021 -0500
+
+    Debugging
+
+[33mcommit bb42c452459ff588b25149961c6ba3d23c71c81c[m
+Merge: b1bf0d4 595d859
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Fri Apr 16 18:21:02 2021 -0500
+
+    Merge branch 'premain' of https://github.com/SIG-Game/RoomsOfDoom into premain
+
+[33mcommit b1bf0d4732f723f12099eb7fbb4985432f0c1c45[m
+Merge: a4aa04d 33d4934
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Fri Apr 16 18:16:07 2021 -0500
+
+    Merge branch 'Emily_Dev_Branch' into premain
+
+[33mcommit 595d85941c6890eab1a32c8d4b215a2934cf66f2[m
+Merge: 6cc56a3 eaee21d
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 16 18:13:42 2021 -0500
+
+    Merge branch 'AdenDevBranch' into premain
+
+[33mcommit eaee21d4cfba27243746856ac5e7dfdb190fef1e[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 16 18:13:25 2021 -0500
+
+    Updated new start menu start button
+
+[33mcommit 6cc56a36e28108a2ea153edff74baaeba05e19f3[m
+Merge: a4aa04d 9cc3230
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 16 18:12:53 2021 -0500
+
+    Merge branch 'AdenDevBranch' into premain
+
+[33mcommit 9cc3230f429b5cb9bf0827b6c9171431176bc0cd[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 16 18:11:06 2021 -0500
+
+    Added new start menu scene
+
+[33mcommit 33d493489610fc1ea683b91f49fd5d817d0495b9[m
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Fri Apr 16 12:55:44 2021 -0500
+
+    Small Update
+
+[33mcommit 3dab059a826fbb70e71b49b0e5a9a88a5936de65[m
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Fri Apr 16 12:54:56 2021 -0500
+
+    Attempted to Debug
+
+[33mcommit 272abb617209ee5ef8216c56bd70d769d47f800a[m
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Fri Apr 9 19:10:38 2021 -0500
+
+    Fixed slime infinite death
+
+[33mcommit 2c8f799a24fe8d5a71c36a123c5afe69152afa80[m
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Apr 9 19:05:26 2021 -0500
+
+    Update Scene9.unity
+
+[33mcommit ef30dc3fd930a60d847daa9f1de0cdbe1499f8db[m
+Merge: b991b2d 7b44ea7
+Author: hvujic7 <54562551+hvujic7@users.noreply.github.com>
+Date:   Fri Apr 9 19:05:00 2021 -0500
+
+    Merge branch 'HarisVujicbranch' of https://github.com/SIG-Game/RoomsOfDoom into HarisVujicbranch
+
+[33mcommit 7b44ea773b8bb0a48aaa2a302f8367f228820d88[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 9 19:03:54 2021 -0500
+
+    Revert "Fixed Scene4.unity"
+    
+    This reverts commit 6cbd3a058912c8d70813edb3ccfe9f6659ec56b9.
+
+[33mcommit b991b2ddc2f608ffde8e469d0c9d39d700820c35[m
+Author: hvujic7 <54562551+hvujic7@users.noreply.github.com>
+Date:   Fri Apr 9 19:02:20 2021 -0500
+
+    extra blocks
+
+[33mcommit 6cbd3a058912c8d70813edb3ccfe9f6659ec56b9[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 9 19:01:15 2021 -0500
+
+    Fixed Scene4.unity
+
+[33mcommit 947b11373ff42c69c19bbd7918606fe1feba28e8[m
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Apr 9 18:52:32 2021 -0500
+
+    Update Scene9.unity
+
+[33mcommit 31c828d60cbeaa92ef14737cb5b01574291bba53[m
+Merge: 86e261f a4aa04d
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Apr 9 18:52:22 2021 -0500
+
+    Merge branch 'premain' into Bilalsbranch
+
+[33mcommit b06689e75614fb2245040b300cf1b2670dc251c8[m
+Author: hvujic7 <54562551+hvujic7@users.noreply.github.com>
+Date:   Fri Apr 9 18:27:23 2021 -0500
+
+    test
+
+[33mcommit a4aa04d2ad716002ab0caa11b6391978565b3cce[m
+Merge: f04621f 028dc74
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 9 18:21:09 2021 -0500
+
+    Merge branch 'AdenDevBranch' into premain
+
+[33mcommit 028dc747ca32132699fdac5825a20409bcdfde68[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Apr 9 17:49:37 2021 -0500
+
+    Added multi-part dialogue support
+
+[33mcommit 4a180048b0250a5cbf5c70be2a753c568a79a0a4[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Apr 2 18:46:29 2021 -0500
+
+    Update Scene3.unity
+
+[33mcommit 14e47c2878c9fab1fb42d8b6e84b755795647da2[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Apr 2 18:44:50 2021 -0500
+
+    level3
+
+[33mcommit d2b726f7ea4b5c6332c9cec8495554e47b28ccd5[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Apr 2 18:36:08 2021 -0500
+
+    level3
+
+[33mcommit a237000d09ef745511f685391038ce76c99d4ebc[m
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Fri Mar 19 19:34:09 2021 -0500
+
+    Updated Text
+
+[33mcommit fdbee7d96f2c6c2c1778e35b902d108f08b8c725[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Mar 19 19:11:18 2021 -0500
+
+    Fixed platform and dialogue canvas in Scene10.unity
+
+[33mcommit 7acae2dd6456127ef8da5b0f04e9ec347179751d[m
+Author: emilygc51 <73391555+emilygc51@users.noreply.github.com>
+Date:   Fri Mar 19 19:00:51 2021 -0500
+
+    Worked on level 10
+
+[33mcommit f04621f7633b77eb47010e8e5ce38f35c9bf0e16[m
+Merge: 0d98bd7 00ed4dc
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Mar 19 16:40:43 2021 -0500
+
+    Merge branch 'AdenDevBranch' into premain
+
+[33mcommit 00ed4dc3a8d3ff6bac975cd023ef320f90584dae[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Mar 19 16:40:06 2021 -0500
+
+    Added dialogue to Scene1.unity
+
+[33mcommit cfdb4bdf7bff92bd1cf4feba537bfb0f5552ce6f[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Mar 12 18:18:12 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit 48b44d0b54411b8a2c40661a61f23b3f157f5d50[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Mar 12 18:05:36 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit e06d8c9e2b3f4a0b44380be3bf595b16e375be52[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Mar 12 18:04:25 2021 -0600
+
+    revert
+
+[33mcommit 242d34a9669b7eb8eadf2fbe8a403dc870ec9ac9[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Mar 12 18:04:01 2021 -0600
+
+    revert
+
+[33mcommit a245c3f46ca2db8feacd063dfe3562ba86394836[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:18:35 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit c905b166e4e4958530ef8efd2c90d5e5980acf7b[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:18:25 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit b8a3a2e4cd1235ee3745c435c9925ca0141a4425[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:18:17 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit b6cc85f022998c7ffb11acb06ffb1f7f62743d63[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:18:08 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit da729076b8809c3b667a5e8b8c1f0e3d004a6610[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:17:10 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit dfb8247e1709ba2670d0dbb898183784d984da19[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:16:50 2021 -0600
+
+    Revert "Revert "Update Scene3.unity""
+    
+    This reverts commit 01171808233023950b553fdf68042aa660f6cb3f.
+
+[33mcommit 5c4e1478ada61555a6109b8bbcf1a7c0bac20fbf[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:16:46 2021 -0600
+
+    Revert "Update Scene3.unity"
+    
+    This reverts commit 5c8d663aa3c56c73023750ae408869b3dc56f530.
+
+[33mcommit 5c8d663aa3c56c73023750ae408869b3dc56f530[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 26 14:15:01 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit 0d98bd7820b3d3cc9473fbbea8618b817e06c356[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Wed Feb 24 14:00:37 2021 -0600
+
+    Resolved conflicts in Scene3
+    
+    The stashed changes to Scene3 were applied, and an error in the Acid GameObject in Scene3 was fixed.
+
+[33mcommit 01171808233023950b553fdf68042aa660f6cb3f[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 19:09:47 2021 -0600
+
+    Revert "Update Scene3.unity"
+    
+    This reverts commit 9e9951fcf0a14e1f1faef862e8567ad304dbd521.
+
+[33mcommit 631b392f56e28d565e68713ae78086777a683737[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 19:09:33 2021 -0600
+
+    Revert "Update Scene3.unity"
+    
+    This reverts commit b427680fe950e1763cfaee5958a1b52605dfe5c1.
+
+[33mcommit 5af24ec72a3e23cd700d36efc657b09f6aca781a[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 19:09:27 2021 -0600
+
+    Revert "Update Scene3.unity"
+    
+    This reverts commit d02830d080a511039f9d32582c9ec4f35b5f9436.
+
+[33mcommit 4a8f80b82eeb1dcb282f0a767ef71995a1cdf4f7[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 19:09:19 2021 -0600
+
+    Revert "3"
+    
+    This reverts commit bcc5025da2852fa8e97211bd1a491f477fe78c30.
+
+[33mcommit bcc5025da2852fa8e97211bd1a491f477fe78c30[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 19:07:22 2021 -0600
+
+    3
+    
+    3
+
+[33mcommit d02830d080a511039f9d32582c9ec4f35b5f9436[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 19:02:00 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit b427680fe950e1763cfaee5958a1b52605dfe5c1[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 18:58:16 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit bd7c82c4075101e04d7a26c322ae51a8f34132f1[m
+Merge: 2679247 c9508fc
+Author: Zlrobbins9 <zlrobbins9@gmail.com>
+Date:   Fri Feb 19 18:57:21 2021 -0600
+
+    Merge branch 'premain' of https://github.com/SIG-Game/RoomsOfDoom into premain
+
+[33mcommit 2679247ff2ea62ece4b01f8d03be074911be1168[m
+Author: Zlrobbins9 <zlrobbins9@gmail.com>
+Date:   Fri Feb 19 18:57:05 2021 -0600
+
+    Fixed health
+    
+    fixed health, added more enemies to level 8
+
+[33mcommit c9508fcc03d86b2ae357dcae5f78f265b6cda247[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 18:45:30 2021 -0600
+
+    level 3
+
+[33mcommit 9e9951fcf0a14e1f1faef862e8567ad304dbd521[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 18:40:34 2021 -0600
+
+    Update Scene3.unity
+
+[33mcommit 86e261f0d19a3730401cfe435a5232ac016be9e2[m
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Feb 19 18:32:18 2021 -0600
+
+    Revert "Update Scene8.unity"
+    
+    This reverts commit e264f5b356b460f33f6779d9cd12f0da5bef71bd.
+
+[33mcommit c4cb132c55da343a8beaf974e706181d455e905a[m
+Author: vishalpatel0814 <vpatel0814@gmail.com>
+Date:   Fri Feb 19 18:12:44 2021 -0600
+
+    Scene 3 -Vishal
+    
+    Scene 3
+
+[33mcommit b2c9e9f4e0c6b5c9dfdf63e44316b865b4ca80d7[m
+Author: Zlrobbins9 <zlrobbins9@gmail.com>
+Date:   Fri Feb 19 17:56:15 2021 -0600
+
+    Added actual content to 8th level
+
+[33mcommit e264f5b356b460f33f6779d9cd12f0da5bef71bd[m
+Author: bhashi2 <bhashi2@uic.edu>
+Date:   Fri Feb 12 19:21:27 2021 -0600
+
+    Update Scene8.unity
+    
+    big changes, huge changes
+
+[33mcommit f07f2ed830cf3de4f19c260dc0d3eb4ed9c2a24e[m
+Author: adenprince <45126168+adenprince@users.noreply.github.com>
+Date:   Fri Feb 12 18:09:28 2021 -0600
+
+    Added basic level to Scene1
+
+[33mcommit 74f5b5ee21df78b2135d6c5f2602a79de7babcc7[m
+Merge: 7a265a3 a50db0b
+Author: ZaccBaccup <78613219+ZaccBaccup@users.noreply.github.com>
+Date:   Fri Feb 5 16:26:56 2021 -0600
+
+    Merge pull request #1 from SIG-Game/premain
+    
+    Added the Unity project
+
+[33mcommit a50db0b2378464c240a0abe6437ff3e7ddda0aba[m
+Author: Zlrobbins9 <zlrobbins9@gmail.com>
+Date:   Fri Feb 5 14:52:43 2021 -0600
+
+    Added the Unity project
+
+[33mcommit 7a265a30487bdecf1f61127bb6da3a13154ec1ee[m
+Author: Zacc <55512911+Zlrobbins9@users.noreply.github.com>
+Date:   Fri Feb 5 14:27:34 2021 -0600
+
+    Initial commit

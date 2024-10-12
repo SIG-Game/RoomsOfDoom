@@ -168,6 +168,6 @@ EditorBuildSettings:
     path: Assets/RoomsOfDoomLevels/VinhLevel.unity
     guid: b9d942f1230436b4c86fdc3ffb15f9e2
   - enabled: 1
-    path: Assets/VinhLevel.unity
+    path: Assets/RoomsOfDoomLevels/Gen4/VinhLevel.unity
     guid: 9d7c21a94d124ef46bb669ae3f878536
   m_configObjects: {}

@@ -5,15 +5,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-<<<<<<< Updated upstream
         "com.unity.2d.common": "8.0.3",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.collections": "1.1.0",
-=======
-        "com.unity.2d.common": "2.1.0",
-        "com.unity.2d.sprite": "1.0.0",
-        "com.unity.mathematics": "1.1.0",
->>>>>>> Stashed changes
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.uielements": "1.0.0"
       },
@@ -44,15 +38,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-<<<<<<< Updated upstream
         "com.unity.2d.common": "8.0.2",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.2d.animation": "9.1.1"
-=======
-        "com.unity.2d.common": "2.0.2",
-        "com.unity.2d.sprite": "1.0.0",
-        "com.unity.2d.animation": "3.2.5"
->>>>>>> Stashed changes
       },
       "url": "https://packages.unity.com"
     },
@@ -67,15 +55,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-<<<<<<< Updated upstream
         "com.unity.2d.common": "8.0.3",
         "com.unity.mathematics": "1.1.0",
         "com.unity.modules.physics2d": "1.0.0"
-=======
-        "com.unity.2d.path": "2.1.0",
-        "com.unity.2d.common": "2.1.0",
-        "com.unity.mathematics": "1.1.0"
->>>>>>> Stashed changes
       },
       "url": "https://packages.unity.com"
     },

@@ -1,6 +1,13 @@
-﻿{
+{
   "version": "1.0",
+<<<<<<< Updated upstream
   "components": [
     "Microsoft.VisualStudio.Workload.ManagedGame"
   ]
 }
+=======
+  "components": [ 
+    "Microsoft.VisualStudio.Workload.ManagedGame"
+  ]
+} 
+>>>>>>> Stashed changes

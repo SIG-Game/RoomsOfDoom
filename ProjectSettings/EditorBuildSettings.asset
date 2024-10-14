@@ -77,4 +77,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: Assets/Ethan's Level.unity
+    guid: 10d6787dfb839418097e5bfcdf68b04a
   m_configObjects: {}

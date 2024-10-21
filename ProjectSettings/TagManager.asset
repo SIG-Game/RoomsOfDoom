@@ -43,6 +43,33 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Dark Background
+    uniqueID: 2250820629
+    locked: 0
+  - name: Big Trees
+    uniqueID: 349110919
+    locked: 0
+  - name: Small Trees
+    uniqueID: 335766607
+    locked: 0
+  - name: Wall
+    uniqueID: 1155087963
+    locked: 0
+  - name: Vines
+    uniqueID: 1390320733
+    locked: 0
+  - name: Bushes
+    uniqueID: 2484739339
+    locked: 0
+  - name: Crashed Ship
+    uniqueID: 2472678065
+    locked: 0
+  - name: Dirt
+    uniqueID: 2691921665
+    locked: 0
+  - name: Other Plants
+    uniqueID: 1790662891
+    locked: 0
   - name: Water
     uniqueID: 2116099231
     locked: 0
@@ -51,4 +78,7 @@ TagManager:
     locked: 0
   - name: Front
     uniqueID: 3405993979
+    locked: 0
+  - name: Front Front
+    uniqueID: 1291583569
     locked: 0
